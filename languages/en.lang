@@ -60,13 +60,13 @@ users.needObject=Have to be an Object
 # includes/handle/handleCommand.js
 
 handleCommand.userBanned=You are unable to use bot!\n%1\n%2!!🚫
-handleCommand.threadBanned=Group Has Been Banned..!⛔️\nPlease Contact Owner Md Aminul Sordar For Unban ⚠️
+handleCommand.threadBanned=Group Has Been Banned..!⛔️\nPlease Contact Owner MARINA x KIRAN For Unban ⚠️
 handleCommand.commandNotExist=The command you used doesn't exist, is that "%1" or not".
 handleCommand.commandThreadBanned=Your thread is unable to use command "%1"
 handleCommand.commandUserBanned=You are unable to use command "%1"
-handleCommand.threadNotAllowNSFW=This Commnd Only use Andmi
+handleCommand.threadNotAllowNSFW=This Commnd Only use Andmin MARINA x KIRAN
 handleCommand.cantGetInfoThread=Can't get your thread's info, error: %1
-handleCommand.permssionNotEnough="%1"Dont parmition allow this command group member this command  only Admin can use..!🩷🫶
+handleCommand.permssionNotEnough="%1"Dont parmition allow this command group member this command  only Admin MARINA x KIRAN can use..!🩷🫶
 handleCommand.cantSetMessageReaction=Having some unexpected error at setMessageReaction, error: %1
 handleCommand.executeCommand=[ %1 ] Command used: %2 by user: %3 at thread: %4 | Args included: %5 | Processing time: %6ms
 handleCommand.commandError=Having some unexpected error when using command %1, error: %2
